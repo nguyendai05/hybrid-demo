@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hybrid Demo</string>
+    <string name="title_activity_main">Hybrid Demo</string>
+    <string name="package_name">com.example.hybriddemo</string>
+    <string name="custom_url_scheme">com.example.hybriddemo</string>
+</resources>
